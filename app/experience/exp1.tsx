@@ -6,9 +6,9 @@ import MSLogo from '@/app/resources/exp/ms_logo.jpg'
 const exp1 = () => {
   return (
     <div>
-        <div className='grid lg:grid-cols-2 grid-cols bg-[#f2f2f2] text-black min-h-screen'>
+        <div className='grid lg:grid-cols-2 grid-cols bg-[#f2f2f2] text-black'>
             <div className='flex flex-col'>
-                <h1 className='mx-5 mt-10 text-3xl font-mono font-bold '>Internship</h1>
+                <h1 className='mx-5 mt-10 text-3xl font-mono font-bold '>Work/Internship</h1>
                 <div className="flex mt-5 mx-10">
                 <div className="flex-none">
                     <div className='col items-center justify-items-center'>

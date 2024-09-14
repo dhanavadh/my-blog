@@ -23,7 +23,7 @@ const component1 = () => {
                     target="_blank">@Faculty of Arts, Chulalongkorn University</a>       
                     <p className="font-mono xl:text-lg text-md text-black">a commercial project distributed by Arts Student Committee, joined as a <b className='bg-pink-500 text-white'>full-stack</b> contributor</p>    
                     <div>
-                        <p className="font-mono mt-6 font-bold xl:text-2xl text-xl text-black">Skill used in this projects</p>    
+                        <p className="font-mono mt-6 font-bold xl:text-2xl text-xl text-black">Skill used in this project</p>    
                         <p className="font-mono xl:text-lg text-md text-black">Next.js, TailwindCSS, Express.js, AWS S3, mongoDB</p>  
                     </div>  
                     <div>

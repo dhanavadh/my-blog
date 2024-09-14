@@ -23,7 +23,7 @@ const component2 = () => {
                 cursor-pointer" href='https://github.com/dhanavadh/JP-TH-Dictionary' target='_blank'>Japanese–Thai Dictionary</a>
                 <p className="font-mono xl:text-lg text-md text-[#f2f2f2]">a personal experiment aiming to create a Japanese–Thai Dictionary with Golang.</p>    
                 <div>
-                  <p className="font-mono mt-6 font-bold xl:text-2xl text-xl text-[#f2f2f2]">Links</p>    
+                  <p className="font-mono mt-6 font-bold xl:text-2xl text-xl text-[#f2f2f2]">Link</p>    
                   <a className="font-mono xl:text-lg text-md text-[#f2f2f2] 
                   underline-thickness-1 underline-offset-4 hover:underline 
                   cursor-pointer" href="https://github.com/dhanavadh/JP-TH-Dictionary" 

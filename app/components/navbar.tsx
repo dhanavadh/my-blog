@@ -96,7 +96,7 @@ function Navbar() {
                             </li>
                             <li className="my-8">
                                 <a className="text-xl font-mono underline-thickness-1 underline-offset-4 hover:underline cursor-pointer transition-colors" href="/experience">
-                                    Experiences
+                                    Experience
                                 </a>
                             </li>
                             <li className="my-8">
