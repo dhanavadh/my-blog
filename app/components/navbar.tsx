@@ -22,7 +22,7 @@ function Navbar() {
     //NavCo
     const [color, setColor ] = useState(false);
     const changeColor = () => {
-        if(window.scrollY >= 300){
+        if(window.scrollY >= 100){
             setColor(true)
         }else {
             setColor(false)
@@ -66,7 +66,7 @@ function Navbar() {
                         </div>
                         <div>
                             </div>
-                        <div className="sm:hidden flex items-center space-x-5">
+                        <div className="sm:hidden flex items-center">
                                 <a
                                 type="button"
                                 className={color ? btnDec[1] : btnDec[0]}    
