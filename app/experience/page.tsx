@@ -1,22 +1,16 @@
 import React from 'react'
 import Link from 'next/link'
+import Exp1 from './exp1'
 
 const page = () => {
   return (
     <div>
-        <div className="grid grid-rows min-h-screen items-center justify-items-center">
-      <main className="flex flex-col items-center mx-6">
-      <div className="grid">
-        <div className="grid">          
-        </div>
+        <div className='grid bg-black '>
+        <p className='mt-64 xl:text-7xl text-5xl font-mono text-[#f2f2f2] object-none object-left-bottom'>
+          <a className='text-blue-500 font-mono mx-2'>*</a>Experience
+        </p>
       </div>
-        <div className="mx-2 sm:w-64">
-          <h1 className="sm:text-5xl text-4xl font-mono font-medium">😭</h1>
-          <h1 className="mb-3 text-3xl font-mono font-medium">This page is under constructed.</h1>
-          <Link href='/' className='underline-thickness-1 underline-offset-4 hover:underline font-mono'>&gt;Go back to home</Link>
-        </div>
-      </main>
-        </div>
+      <Exp1 />
     </div>
   )
 }

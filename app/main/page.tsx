@@ -19,15 +19,6 @@ export default function Home() {
           <p className="text-md font-mono">I am a 3rd-year student currently majoring in Japanese language at <a className="underline underline-thickness-1 underline-offset-4 hover:underline hover:decoration-pink-500" href="https://www.arts.chula.ac.th/th/" target="_blank">the Faculty of Arts, Chulalongkorn University.</a></p>
         </div>       
       </div>
-      
-        {/* <div className="mt-10">
-          <Link href="https://www.linkedin.com/in/dhanav" target="_blank" className="font-mono underline-thickness-1 underline-offset-4 hover:underline mx-2">
-           Linkedin
-          </Link>
-          <Link href="https://github.com/dhanavadh" target="_blank" className="font-mono underline-thickness-1 underline-offset-4 hover:underline mx-2 ">
-           GitHub
-          </Link>
-        </div> */}
       </main>
     </div>
     </>
