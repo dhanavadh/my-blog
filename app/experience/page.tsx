@@ -1,5 +1,4 @@
 import React from 'react'
-import Link from 'next/link'
 import Exp1 from './exp1'
 
 const page = () => {
