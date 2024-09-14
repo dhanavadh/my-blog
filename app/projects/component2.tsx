@@ -10,7 +10,7 @@ const component2 = () => {
           <div className="grid">
             <div className="flex items-start justify-between">
               <div className='grid items-center justify-center'>                
-                <Link href="https://artsgoz.netlify.app/" target="_blank">
+                <Link href="https://github.com/dhanavadh/JP-TH-Dictionary" target="_blank">
                   <Image src={Aw2} alt='Test-img' className='grayscale-0 hover:grayscale hover:cursor-pointer w-screen'></Image>
                 </Link>
               </div>
