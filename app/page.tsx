@@ -1,6 +1,5 @@
 import Image from "next/image";
 import TestImg from "../app/resources/test.jpeg";
-import "@/app/components/global-style.css";
 import Link from "next/link";
 
 export default function Home() {

@@ -1,6 +1,5 @@
 "use client"
 import {useState, useEffect} from "react";
-import "@/app/components/global-style.css"
 
   const btnDec = [
     `flex font-mono px-2 py-1 border-2 btn underline-thickness-1 hover:underline hover:bg-[#F2F2F2] hover:text-[#1F1F1F]
