@@ -1,14 +1,14 @@
 import Image from "next/image";
-import TestImg from "@/app/resources/test.jpeg";
+import CoverImg from "@/app/resources/cover.svg";
 
 export default function Home() {
   return (
     <>
     <div className="grid grid-rows min-h-1/2 items-center justify-items-center">
-      <main className="flex flex-col items-center mx-6 my-32">
+      <main className="flex flex-col items-center mx-6 my-48">
         <div className="grid">
           <Image className="object-cover ssa"
-            src={TestImg}
+            src={CoverImg}
             alt="Test Image"   
           />
         </div>

@@ -7,14 +7,14 @@ export default function Home() {
   return (
     <>
     <Main />
-      <div className='grid bg-black font-mono xl:text-7xl text-5xl text-[#f2f2f2]'>
+      <div className='grid bg-black font-mono font-bold xl:text-5xl text-4xl text-[#f2f2f2]'>
         <p className='object-none object-left-bottom mt-16'>
           <a className='text-pink-500 font-mono mx-2'>*</a>Projects
         </p>
       </div>        
       <Component1 />          
       <Component2 />
-      <div className='grid bg-[#f2f2f2] font-mono xl:text-7xl text-5xl text-black'>
+      <div className='grid bg-[#f2f2f2] font-mono font-bold xl:text-5xl text-4xl text-black'>
         <p className='object-none object-left-bottom mt-16'>
           <a className='text-blue-500 font-mono mx-2'>*</a>Experience
         </p>
