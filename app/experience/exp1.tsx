@@ -24,7 +24,7 @@ const exp1 = () => {
                 </div>
                 </div>
             </div>
-            <div className='flex flex-col'>
+            <div className='flex flex-col mx-5'>
                 <h1 className='mx-5 mt-10 text-3xl font-mono font-bold'>Activities</h1>
                 <div className="flex mt-5 mx-10">
                     <div className="flex-none">
