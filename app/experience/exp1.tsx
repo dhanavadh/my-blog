@@ -7,7 +7,7 @@ const exp1 = () => {
   return (
     <div>
         <div className='grid lg:grid-cols-2 grid-cols bg-[#f2f2f2] text-black'>
-            <div className='flex flex-col'>
+            <div className='flex flex-col mx-5'>
                 <h1 className='mx-5 mt-10 text-3xl font-mono font-bold '>Work/Internship</h1>
                 <div className="flex mt-5 mx-10">
                 <div className="flex-none">
